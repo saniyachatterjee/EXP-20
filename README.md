@@ -170,7 +170,8 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/280393e1-e2c1-4729-8aa7-7e2b6b0fefd3)
+
+![Screenshot 2024-10-22 202400](https://github.com/user-attachments/assets/00a15bb5-1168-4772-8675-fb16beba1d79)
 
 # Conclusion
 These algorithms are primarily useful for educational purposes, and while they work well with small datasets, more advanced sorting algorithms such as Quick Sort, Merge Sort, or Heap Sort are generally preferred for large datasets due to their superior performance.
