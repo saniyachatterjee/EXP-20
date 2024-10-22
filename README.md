@@ -71,8 +71,8 @@ int main() {
 }
 ```
 o/p:
+![Screenshot 2024-10-22 202037](https://github.com/user-attachments/assets/a3a150ee-a265-43dc-9da7-9ba688c34a71)
 
-![image](https://github.com/user-attachments/assets/7ab2056f-7c9e-45aa-a77e-96347239e6d5)
 
 2. Insertion Sort
 ```
@@ -112,7 +112,7 @@ int main(){
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/3e8e86a4-6466-4e97-bc85-c489e8cdcd74)
+![Screenshot 2024-10-22 202107](https://github.com/user-attachments/assets/cb0281a1-66a3-4d54-ad6c-7bda527f2c51)
 
 3. BubbleSort
 ```
